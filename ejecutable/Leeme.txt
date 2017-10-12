@@ -1,0 +1,4 @@
+Para que el programa se ejecute sin errores hay que cambiar los parametros de usuario y clave corresponientes a su mysql, que están:
+src/main/Ventana.java
+
+Importar la base de datos (enigma.sql) que se encuentra en la carpeta mysql
